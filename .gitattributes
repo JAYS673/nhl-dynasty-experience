@@ -1,0 +1,14 @@
+# Configuration for git attributes
+*.js linguist-detectable
+
+public/**/*.html linguist-vendored
+*.map linguist-generated
+Cargo.lock linguist-generated 
+go.sum linguist-generated
+public/index.html linguist-vendored
+
+*.min.js linguist-generated
+*.md linguist-documentation
+**/*.js linguist-detectable
+*.bat text eol=crlf
+# eof f9c5134a

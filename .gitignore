@@ -1,0 +1,10 @@
+.cache/
+*.tgz
+yarn-error.log*
+.env
+build/
+npm-debug.log*
+node_modules/
+.DS_Store
+*.log
+_site/
